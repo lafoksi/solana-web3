@@ -3,6 +3,7 @@
   "name": "candy-machine-mint",
   "version": "0.1.0",
   "private": true,
+  
   "dependencies": {
     "@babel/core": "^7.0.0",
     "@babel/runtime": "7.x",
