@@ -6,6 +6,8 @@
 
 All Candy Machine V2 functionalities are implemented, auto detected and maintained up-to-date :
 
+
+
 - public mint (with countdown when date in future)
 - civic support (gatekeeper)
 - whitelist
