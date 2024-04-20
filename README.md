@@ -106,6 +106,9 @@ yarn build
 
 #### 4. Customize the website UI :
 
+
+
+
 ##### 4.1 `App.css` : update 5 main CSS variables with your custom colors :
 
 ```
